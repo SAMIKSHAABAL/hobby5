@@ -1,0 +1,43 @@
+body{
+text-align: center;
+}
+#coding{
+height: 300px;
+width: 300px;
+padding-right: 400px;
+}
+#sec2{
+font-size: 25px;
+ background-color: pink;
+}
+#sec1{
+background-color: aqua;
+}
+.menu{
+list-style: none;
+cursor: grabbing;
+font-size: 25px;
+font-family:cursive;
+}
+.link1{
+float:left;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 5px;
+padding-left: 5px;
+}
+.link1:hover{
+background-color:lime;
+}
+#App{
+background: yellow;
+}
+#Game{
+background: orange;
+}
+#Inspiration{
+background: lime;
+}
+#Map{
+background: #f003fc;
+}
